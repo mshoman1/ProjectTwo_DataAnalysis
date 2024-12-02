@@ -1,0 +1,2 @@
+Dataset 1 : https://www.kaggle.com/datasets/shivamb/netflix-shows 
+Dataset 2 : https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows
