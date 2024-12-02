@@ -39,3 +39,15 @@ To run this project on your local machine, follow these steps:
    ```bash
    git clone https://github.com/your-username/Project2_Real_world_Data_Wrangling.git
    cd Project2_Real_world_Data_Wrangling
+2. **Install the necessary dependencies**: You can use conda or pip to install the required packages:
+   ```bash
+    conda install --file requirements.txt
+    or
+    pip install -r requirements.txt
+3. **Run the Jupyter notebook:**
+   ```bash
+   jupyter notebook
+
+
+
+
